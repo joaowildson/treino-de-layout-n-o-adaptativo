@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="a35_03_Camera_1" transform="translate(-4240 -2424)">
+    <g id="camera-rear-galaxy-a34-a54-5g" transform="translate(4240 2424)">
+      <g id="Galaxy_A53_A34" data-name="Galaxy A53 / A34">
+        <rect id="사각형_2171" data-name="사각형 2171" width="96" height="96" opacity="0"/>
+        <g id="그룹_2666" data-name="그룹 2666">
+          <circle id="타원_435" data-name="타원 435" cx="10.7" cy="10.7" r="10.7" transform="translate(18.21 16)"/>
+          <circle id="타원_436" data-name="타원 436" cx="10.7" cy="10.7" r="10.7" transform="translate(18.21 43.3)"/>
+          <circle id="타원_437" data-name="타원 437" cx="10.7" cy="10.7" r="10.7" transform="translate(18.21 70.6)"/>
+          <circle id="타원_438" data-name="타원 438" cx="2.37" cy="2.37" r="2.37" transform="translate(48.32 37.18)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.03"/>
+        </g>
+      </g>
+      <path id="패스_6240" data-name="패스 6240" d="M6,92V16A10.029,10.029,0,0,1,16,6H92" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
